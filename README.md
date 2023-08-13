@@ -1,6 +1,4 @@
----
-# About Me
-**Life is so short so don't waste it by listening to others or complaning about how difficult and Unfair life is and always be what you want no matter how others see it and last but not least everybody is talented don't let anybody put you down.**
+# Who am i
 
 ## Background
 
@@ -24,3 +22,7 @@
 - Actively participate in Capture The Flag (CTF) challenges, honing problem-solving abilities and exploring security-related puzzles.
 
 - Feel free to connect with me for discussions related to cyber security, software development, or any intriguing tech topics!
+
+---
+
+> "Life is so short so don't waste it by listening to others or complaning about how difficult and Unfair life is and always be what you want no matter how others see it and last but not least everybody is talented don't let anybody put you down." 
