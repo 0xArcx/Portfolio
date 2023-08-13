@@ -1,5 +1,5 @@
 title: Youssef Atef
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
