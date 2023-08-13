@@ -20,7 +20,7 @@
   - NSE 1, 2, and 3 certificates, showcasing proficiency in network security.
 
 ## 💻  Web Development
-**Engaged in a web development challenger track to expand my skill set.**
+Engaged in a web development challenger track to expand my skill set.
 
 ## 🧩 CTF Enthusiast
 Actively participate in Capture The Flag (CTF) challenges, honing problem-solving abilities and exploring security-related puzzles.
